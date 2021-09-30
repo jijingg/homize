@@ -1,0 +1,11 @@
+alias l="ls -l"
+alias la="ls -la"
+alias ga="vim ~/.alias"
+alias sa="source ~/.alias"
+alias md="mkdir"
+alias ..="cd ../"
+alias ...="cd ../../"
+
+
+
+#--------------------------------------------------
