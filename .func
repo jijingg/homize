@@ -1,0 +1,11 @@
+function addc(){
+    print "alias $1='cd  `pwd`' #`date +%Y.%m.%d,%H:%M`">>~/.alias
+    source ~/.alias
+    echo;which $1;echo;
+}
+
+function addo(){
+    print "alias $1='open  `pwd`' #`date +%Y.%m.%d,%H:%M`">>~/.alias
+    source ~/.alias
+    echo;which $1;echo;
+}
