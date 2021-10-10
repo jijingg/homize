@@ -1,2 +1,2 @@
-mkdir -p ~/.vim/Bundle/ 
-unzip .vim/bundle.zip ~/.vim
+mkdir -p ~/.vim/bundle/ 
+unzip .vim/bundle.zip -d ~/.vim
