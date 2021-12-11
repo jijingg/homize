@@ -2,10 +2,13 @@ alias l="ls -l"
 alias la="ls -la"
 alias ga="vim ~/.alias"
 alias sa="source ~/.alias"
+alias sz="source ~/.zshrc"
 alias md="mkdir"
 alias ..="cd ../"
 alias ...="cd ../../"
-
+alias h=history
+alias du0="du -hd 0"
+alias du1="du -hd 1"
 
 
 #--------------------------------------------------
