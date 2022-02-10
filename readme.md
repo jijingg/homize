@@ -48,3 +48,9 @@ fi
 ## step6:
 set color git
 git config --global color.ui true
+
+
+## step7:
+sftp
+get xxx.file
+put
