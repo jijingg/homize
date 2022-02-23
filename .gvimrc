@@ -1,4 +1,5 @@
-" set guifont=Consolas\ 13
+set guifont=Consolas\ 13 "unix setup
+" set guifont=Consolas:h13 "windows setup
 " set guifont=Courier\ 10\ Pitch\ 13
 set encoding=utf-8
 
