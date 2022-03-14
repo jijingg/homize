@@ -1,6 +1,6 @@
 cp -f .alias ~/ 
 cp -f .func  ~/ 
-cp -f .giconfig  ~/ 
+cp -f .gitconfig  ~/ 
 cp -f .vimrc ~/ 
 cp -f .vundlerc ~/ 
 cp -f .gvimrc ~/ 
