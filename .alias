@@ -1,5 +1,5 @@
-alias l="ls -l"
-alias la="ls -la"
+alias l="ls -lh"
+alias la="ls -lha"
 alias ga="vim ~/.alias"
 alias sa="source ~/.alias"
 alias sz="source ~/.zshrc"
